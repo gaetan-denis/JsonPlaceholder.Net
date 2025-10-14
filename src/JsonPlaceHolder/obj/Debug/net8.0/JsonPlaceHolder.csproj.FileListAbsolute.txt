@@ -1,0 +1,12 @@
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\bin\Debug\net8.0\JsonPlaceHolder.deps.json
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\bin\Debug\net8.0\JsonPlaceHolder.dll
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\bin\Debug\net8.0\JsonPlaceHolder.pdb
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\obj\Debug\net8.0\JsonPlaceHolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\obj\Debug\net8.0\JsonPlaceHolder.AssemblyInfoInputs.cache
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\obj\Debug\net8.0\JsonPlaceHolder.AssemblyInfo.cs
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\obj\Debug\net8.0\JsonPlaceHolder.csproj.CoreCompileInputs.cache
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\obj\Debug\net8.0\JsonPlaceHolder.sourcelink.json
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\obj\Debug\net8.0\JsonPlaceHolder.dll
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\obj\Debug\net8.0\refint\JsonPlaceHolder.dll
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\obj\Debug\net8.0\JsonPlaceHolder.pdb
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder\obj\Debug\net8.0\ref\JsonPlaceHolder.dll

@@ -2,6 +2,6 @@ namespace JsonPlaceHolder.Models;
 
 public class Geo
 {
-    public string Lat { get; set; } = string.Empty;
-    public string Lng { get; set; } = string.Empty;
+    public required string Lat { get; set; }
+    public required string Lng { get; set; }
 }

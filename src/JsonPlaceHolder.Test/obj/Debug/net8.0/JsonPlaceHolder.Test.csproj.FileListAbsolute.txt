@@ -1,9 +1,3 @@
-C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.csproj.AssemblyReference.cache
-C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.AssemblyInfoInputs.cache
-C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.AssemblyInfo.cs
-C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.csproj.CoreCompileInputs.cache
-C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.sourcelink.json
 C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\bin\Debug\net8.0\JsonPlaceHolder.Test.exe
 C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\bin\Debug\net8.0\JsonPlaceHolder.Test.deps.json
 C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\bin\Debug\net8.0\JsonPlaceHolder.Test.runtimeconfig.json
@@ -11,6 +5,12 @@ C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\bin\Debug\ne
 C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\bin\Debug\net8.0\JsonPlaceHolder.Test.pdb
 C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\bin\Debug\net8.0\JsonPlaceHolder.dll
 C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\bin\Debug\net8.0\JsonPlaceHolder.pdb
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.csproj.AssemblyReference.cache
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.AssemblyInfoInputs.cache
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.AssemblyInfo.cs
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.csproj.CoreCompileInputs.cache
+C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.sourcelink.json
 C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlac.955403EC.Up2Date
 C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\JsonPlaceHolder.Test.dll
 C:\Users\gjmat\Desktop\JsonPlaceholder.Net\src\JsonPlaceHolder.Test\obj\Debug\net8.0\refint\JsonPlaceHolder.Test.dll

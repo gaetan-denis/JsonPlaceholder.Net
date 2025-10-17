@@ -2,10 +2,10 @@ namespace JsonPlaceHolder.Models;
 
 public class Address
 {
-    public string Street { get; set; } = string.Empty;
-    public string Suite { get; set; } = string.Empty;
-    public string City { get; set; } = string.Empty;
+    public required string Street { get; set; }
+    public required string Suite { get; set; }
+    public required string City { get; set; }
 
-    public string ZipCode { get; set; } = string.Empty;
+    public required string ZipCode { get; set; }
     public Geo? Geo { get; set; }
 }

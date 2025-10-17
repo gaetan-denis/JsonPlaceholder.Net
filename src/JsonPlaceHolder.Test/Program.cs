@@ -5,8 +5,8 @@ class Program
 {
     static async Task Main()
     {
-        var client = new BaseClient();
-        var users = await client.GetUsersAsync();
+        var userClient = new UserClient();
+        var users = await userClient.GetUsersAsync();
 
         foreach (var user in users)
         {

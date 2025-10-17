@@ -13,6 +13,4 @@ public class User
     public string Website { get; set; } = string.Empty;
 
     public Company? Company { get; set; }
-
-
 }

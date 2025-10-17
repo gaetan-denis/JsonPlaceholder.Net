@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonPlaceHolder.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a051d429303dbf13751033a9bed976ab0303515")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2722ab222321679f216021b37355b3f94accad2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonPlaceHolder.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonPlaceHolder.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,4 @@
-namespace JsonPlaceHolder;
+namespace JsonPlaceHolder.Models;
 
 public class Geo
 {

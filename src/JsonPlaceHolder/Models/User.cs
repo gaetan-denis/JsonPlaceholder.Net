@@ -1,6 +1,4 @@
-﻿using System.Dynamic;
-
-namespace JsonPlaceHolder;
+﻿namespace JsonPlaceHolder.Models;
 
 public class User
 {

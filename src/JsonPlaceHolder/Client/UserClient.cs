@@ -14,7 +14,15 @@ namespace JsonPlaceHolder.Client
         
            public async Task<List<User>> GetUsersAsync()
         {
-            return await _httpClient.GetFromJsonAsync<List<User>>("users") ?? new List<User>();
+            try
+            {
+                return await _httpClient.GetFromJsonAsync<List<User>>("users") ?? new List<User>();
+            }catch(HttpRequestException Exception)
+            {
+                Console.WriteLine($"Erreur HTTP :  {Exception.Message}");
+                return new List<User>();
+            }
+            
         }
     }
 }

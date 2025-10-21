@@ -19,7 +19,5 @@ namespace JsonPlaceHolder.Client
             _httpClient = httpClient ?? new HttpClient();
             _httpClient.BaseAddress = _baseAddress;
         }
-
-     
     }
 }

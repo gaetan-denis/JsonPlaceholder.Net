@@ -27,39 +27,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gjmat\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\gjmat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gjmat\\Desktop\\JsonPlaceholder.Net\\src\\JsonPlaceHolder.Test\\JsonPlaceHolder.Test.csproj",
+      "projectUniqueName": "C:\\Users\\gjmat\\Desktop\\C#\\JsonPlaceholder.Net\\src\\JsonPlaceHolder.Test\\JsonPlaceHolder.Test.csproj",
       "projectName": "JsonPlaceHolder.Test",
-      "projectPath": "C:\\Users\\gjmat\\Desktop\\JsonPlaceholder.Net\\src\\JsonPlaceHolder.Test\\JsonPlaceHolder.Test.csproj",
+      "projectPath": "C:\\Users\\gjmat\\Desktop\\C#\\JsonPlaceholder.Net\\src\\JsonPlaceHolder.Test\\JsonPlaceHolder.Test.csproj",
       "packagesPath": "C:\\Users\\gjmat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gjmat\\Desktop\\JsonPlaceholder.Net\\src\\JsonPlaceHolder.Test\\obj\\",
+      "outputPath": "C:\\Users\\gjmat\\Desktop\\C#\\JsonPlaceholder.Net\\src\\JsonPlaceHolder.Test\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gjmat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gjmat\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gjmat\\Desktop\\JsonPlaceholder.Net\\src\\JsonPlaceHolder\\JsonPlaceHolder.csproj": {
-              "projectPath": "C:\\Users\\gjmat\\Desktop\\JsonPlaceholder.Net\\src\\JsonPlaceHolder\\JsonPlaceHolder.csproj"
+            "C:\\Users\\gjmat\\Desktop\\C#\\JsonPlaceholder.Net\\src\\JsonPlaceHolder\\JsonPlaceHolder.csproj": {
+              "projectPath": "C:\\Users\\gjmat\\Desktop\\C#\\JsonPlaceholder.Net\\src\\JsonPlaceHolder\\JsonPlaceHolder.csproj"
             }
           }
         }
@@ -73,8 +66,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -95,7 +87,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

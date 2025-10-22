@@ -19,13 +19,18 @@ namespace JsonPlaceHolder.Client
             {
                 return await _httpClient.GetFromJsonAsync<List<User>>("users") ?? new List<User>();
             }
-            catch (HttpRequestException Exception)
+            catch (HttpRequestException exception)
             {
-                Console.WriteLine($"Erreur HTTP :  {Exception.Message}");
+                Console.WriteLine($"Erreur HTTP :  {exception.Message}");
                 return new List<User>();
             }
 
         }
+        /// <summary>
+        /// Return a single user by ID from JSONPlaceholder API.
+        /// </summary>
+        /// <param name="id">The id of the user</param>
+        /// <returns>A <see cref="User"/> object or null if not found.</returns>
         
          public async Task<User?> GetUserByIdAsync(int id)
         {
@@ -33,9 +38,9 @@ namespace JsonPlaceHolder.Client
             {
                 return await _httpClient.GetFromJsonAsync<User>($"users/{id}");
             }
-            catch(HttpRequestException Exception)
+            catch(HttpRequestException exception)
             {
-                Console.WriteLine($"Erreur Http : {Exception.Message}");
+                Console.WriteLine($"Erreur Http : {exception.Message}");
                 return null;
             }
         }

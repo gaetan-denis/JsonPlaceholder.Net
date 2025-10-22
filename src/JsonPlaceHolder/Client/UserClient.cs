@@ -1,18 +1,15 @@
-using JsonPlaceHolder.Client;
-using JsonPlaceHolder.Models;
 using System.Net.Http.Json;
 
 
 namespace JsonPlaceHolder.Client
 {
-    public class UserClient : BaseClient
+    public class UserClient(HttpClient? httpClient = null) : BaseClient(httpClient), BaseClient
     {
-        public UserClient(HttpClient? httpClient = null) : base(httpClient)
-        {
-
-        }
-        
-           public async Task<List<User>> GetUsersAsync()
+        /// <summary>
+        /// Return list of all users from JSONPlaceHolder Api.
+        /// </summary>
+        /// <returns>A list of <see cref="Users" > object</returns>
+        static public async Task<List<User>> GetUsersAsync()
         {
             try
             {
